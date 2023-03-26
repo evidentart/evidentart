@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Ali Akcin
 - 👀 I’m interested in software and game development
-- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on Java, C++, and JavaScript
 
 <!---
