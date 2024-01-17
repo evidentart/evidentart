@@ -6,12 +6,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=evidentart&label=Profile%20views&color=0e75b6&style=flat" alt="evidentart" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=evidentart" alt="evidentart" /></a> </p>
-
+- 📫 Secondary git-hub account contains mainly Typescript projects & demos.
+  https://github.com/aliakcin07
+  
 - 🌱 I’m currently learning **TypeScript**
 
 - 📫 How to reach me **akcin.alii@gmail.com**
 
+- ⚡ Fun fact **My favorite subject in school is Biology**
+  
+  
+- 💻 Hobbies **basketball, reading, video games**
+  
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=evidentart" alt="evidentart" /></a> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ali-akcin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ali-akcin" height="30" width="40" /></a>
