@@ -1,6 +1,6 @@
 ![logo](https://edexcel.theacademyonline.org.za/wp-content/uploads/2021/03/computer-science.jpg)
 <h1 align="center">Hi 👋, I'm Ali Akcin</h1>
-<h3 align="center">Experienced backend developer with strong proficiency in Java and SQL. Also skilled in JavaScript, C++ as well as Android. Passionate about problem-solving and flexible in adapting to new technologies. Committed to writing clean and efficient code. Constantly seeking opportunities to learn and grow in the field of software development.</h3>
+<h3 align="center">Backend developer with strong proficiency in Java and SQL. Also skilled in JavaScript, C++ as well as Android. Passionate about problem-solving and flexible in adapting to new technologies. Committed to writing clean and efficient code. Constantly seeking opportunities to learn and grow in the field of software development.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 
