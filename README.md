@@ -7,18 +7,17 @@
 
 - 🌱 I’m currently learning **TypeScript**
 
-- 👨‍💻 Secondary git-hub account: [https://github.com/aliakcin07](https://github.com/aliakcin07)
+- 👨‍💻 Secondary git-hub account contains mainly TypeScript projects & demos
+  [https://github.com/aliakcin07](https://github.com/aliakcin07)
 
-- 📫 How to reach me: **akcin.alii@gmail.com**
+- 📫 How to reach me **akcin.alii@gmail.com**
 
-- 💻 Hobbies: **basketball, reading, videogames**
-
-- ⚡ Fun fact: **My favorite subject in school is Biology!**
+- ⚡ Fun fact **My favorite subject in school is Biology!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ali-akcin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ali-akcin" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/evidentart/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/evidentart/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ali-akcin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ali-akcin" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/evidentart" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="evidentart" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -29,3 +28,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=evidentart&show_icons=true&locale=en" alt="evidentart" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=evidentart&" alt="evidentart" /></p>
+
