@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **TypeScript**
 
-- 👨‍💻 Secondary git-hub account: [https://github.com/aliakcin07](/github.com/evidentart)
+- 👨‍💻 Secondary git-hub account: [https://github.com/aliakcin07](https://github.com/aliakcin07)
 
 - 📫 How to reach me: **akcin.alii@gmail.com**
 
