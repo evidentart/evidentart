@@ -1,7 +1,7 @@
 ![logo](https://edexcel.theacademyonline.org.za/wp-content/uploads/2021/03/computer-science.jpg)
 <img align="right" alt="Coding" width="400" src="https://gist.githubusercontent.com/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
 <h1 align="center">Hi 👋, I'm Ali Akcin</h1>
-<h3 align="center">Backend developer with strong proficiency in Java and SQL. Also skilled in JavaScript, C++ as well as Android. Passionate about problem-solving and flexible in adapting to new technologies. Committed to writing clean and efficient code. Constantly seeking opportunities to learn and grow in the field of software development.</h3>
+<h3 align="center">Backend developer with strong proficiency in Java and SQL. Also skilled in JavaScript, C++ as well as Android. Committed to writing clean and efficient code. Constantly seeking opportunities to learn and grow in the field of software development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=evidentart&label=Profile%20views&color=0e75b6&style=flat" alt="evidentart" /> </p>
 
