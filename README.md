@@ -7,14 +7,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=evidentart&label=Profile%20views&color=0e75b6&style=flat" alt="evidentart" /> </p>
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning: **TypeScript**
 
-- 👨‍💻 Secondary git-hub account contains TypeScript projects & demos
+- 👨‍💻 Secondary git-hub account contains TypeScript projects & demos:
   [https://github.com/aliakcin07](https://github.com/aliakcin07)
 
-- 📫 How to reach me **akcin.alii@gmail.com**
+- 📫 How to reach me: **akcin.alii@gmail.com**
 
-- ⚡ Fun fact **My favorite subject in school is Biology!**
+- ⚡ Fun fact: **My favorite subject in school is Biology!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
