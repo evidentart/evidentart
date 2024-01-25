@@ -1,5 +1,5 @@
 ![logo](https://edexcel.theacademyonline.org.za/wp-content/uploads/2021/03/computer-science.jpg)
-<img align="right" alt="Coding" width="400" src="https://gist.githubusercontent.com/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif">
 <h1 align="center">Hi 👋, I'm Ali Akcin</h1>
 <h3 align="center">Backend developer with strong proficiency in Java and SQL. Also skilled in JavaScript, C++ as well as Android. Committed to writing clean and efficient code. Constantly seeking opportunities to learn and grow in the field of software development.</h3>
 
@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **TypeScript**
 
-- 👨‍💻 Secondary git-hub account contains mainly Typescript projects & demos [https://github.com/aliakcin07](https://github.com/aliakcin07)
+- 👨‍💻 Secondary git-hub account: [https://github.com/aliakcin07](/github.com/evidentart)
 
-- 📫 How to reach me **akcin.alii@gmail.com**
+- 📫 How to reach me: **akcin.alii@gmail.com**
 
-- 💻 Hobbies [basketball, reading, videogames](basketball, reading, videogames)
+- 💻 Hobbies: **basketball, reading, videogames**
 
-- ⚡ Fun fact **My favorite subject in school is Biology!**
+- ⚡ Fun fact: **My favorite subject in school is Biology!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
