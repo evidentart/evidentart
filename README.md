@@ -28,8 +28,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=evidentart" alt="evidentart" /></a> </p>
 
 <div style="display: flex;">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=evidentart&show_icons=true&locale=en&layout=compact" alt="evidentart" style="height: 172px;"/>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=evidentart&show_icons=true&locale=en" alt="evidentart" style="height: 174px;"/>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=evidentart&show_icons=true&locale=en&layout=compact" alt="evidentart" style="height: 174px;"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=evidentart&show_icons=true&locale=en" alt="evidentart" style="height: 176px;"/>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=evidentart&" alt="evidentart"/>
 </div>
 
