@@ -1,27 +1,23 @@
 ![logo](https://edexcel.theacademyonline.org.za/wp-content/uploads/2021/03/computer-science.jpg)
 <h1 align="center">Hi 👋, I'm Ali Akcin</h1>
 <h3 align="center">Backend developer with strong proficiency in Java and SQL. Also skilled in JavaScript, C++ as well as Android. Passionate about problem-solving and flexible in adapting to new technologies. Committed to writing clean and efficient code. Constantly seeking opportunities to learn and grow in the field of software development.</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=evidentart&label=Profile%20views&color=0e75b6&style=flat" alt="evidentart" /> </p>
 
-- 📫 Secondary git-hub account contains mainly Typescript projects & demos.
-  https://github.com/aliakcin07
-  
 - 🌱 I’m currently learning **TypeScript**
+
+- 👨‍💻 Secondary git-hub account contains mainly Typescript projects & demos [https://github.com/aliakcin07](https://github.com/aliakcin07)
 
 - 📫 How to reach me **akcin.alii@gmail.com**
 
-- ⚡ Fun fact **My favorite subject in school is Biology**
-  
-  
-- 💻 Hobbies **basketball, reading, video games**
-  
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=evidentart" alt="evidentart" /></a> </p>
+- 💻 Hobbies [basketball, reading, videogames](basketball, reading, videogames)
+
+- ⚡ Fun fact **My favorite subject in school is Biology!**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ali-akcin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ali-akcin" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/ali-akcin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ali-akcin" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/evidentart/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/evidentart/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
