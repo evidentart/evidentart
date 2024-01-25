@@ -28,8 +28,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=evidentart" alt="evidentart" /></a> </p>
 
 <div style="display: flex;">
-    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=evidentart&show_icons=true&locale=en&layout=compact" alt="evidentart" style="height: 200px;" /></p>
-    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=evidentart&show_icons=true&locale=en" alt="evidentart" style="height: 200px;"/></p>
-    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=evidentart&" alt="evidentart" /></p>
+    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=evidentart&show_icons=true&locale=en&layout=compact" alt="evidentart" style="height: 200px; width: auto; max-width: 50%;" /></p>
+    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=evidentart&show_icons=true&locale=en" alt="evidentart" style="height: 200px; width: auto; max-width: 50%;"/></p>
+    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=evidentart&" alt="evidentart" style="height: 200px; width: auto; max-width: 50%;"/></p>
 </div>
 
