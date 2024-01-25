@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Ali Akcin</h1>
 <h3 align="center">Dedicated backend developer with strong proficiency in Java and SQL. Also skilled in JavaScript, C++ as well as Android. Passionate about problem-solving and flexible in adapting to new technologies. Committed to writing clean and efficient code. Constantly seeking opportunities to learn and grow in the field of software development.</h3>
 
-<img align="right" alt="Coding" width="450" height="330" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif">
+<img align="right" alt="Coding" width="440" height="330" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=evidentart&label=Profile%20views&color=0e75b6&style=flat" alt="evidentart" /> </p>
 
