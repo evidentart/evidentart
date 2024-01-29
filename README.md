@@ -28,9 +28,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=evidentart" alt="evidentart" /></a> </p>
 
 <div style="display: flex;">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=evidentart&show_icons=true&locale=en&layout=compact" alt="evidentart" style="height: 174px;"/>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=evidentart&show_icons=true&locale=en" alt="evidentart" style="height: 176px;"/>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=evidentart&" alt="evidentart"/>
-    <img align="right" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*mB6YLIGqIk1hTzU6Fb12zQ.gif" alt="small_picture" style="height: 200px; width: 330px;" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=evidentart&show_icons=true&locale=en&layout=compact" alt="evidentart" style="height: 174px;" loading="lazy"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=evidentart&show_icons=true&locale=en" alt="evidentart" style="height: 176px;" loading="lazy"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=evidentart&" alt="evidentart" loading="lazy"/>
+  <img align="right" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*mB6YLIGqIk1hTzU6Fb12zQ.gif" alt="small_picture" style="height: 200px; width: 330px;" loading="lazy"/>
 </div>
 
