@@ -13,7 +13,7 @@
   
 - ⚡ Fun fact: **My favorite subject in school is Biology!**
 
-- 💻 Passionate about coding, committed to collaboration, and constantly striving for improvement!
+- 💻 **Passionate about coding, committed to collaboration, and constantly striving for improvement!**
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
