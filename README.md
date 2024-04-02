@@ -8,15 +8,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=evidentart&label=Profile%20views&color=0e75b6&style=flat" alt="evidentart" /> </p>
 
 - 🌱 I’m currently learning: **TypeScript**
-
-- 👨‍💻 Secondary git-hub account contains TypeScript projects & demos:
-  [https://github.com/aliakcin07](https://github.com/aliakcin07)
-
-- 📫 How to reach me: **akcin.alii@gmail.com**
-
-- ⚡ Fun fact: **My favorite subject in school is Biology!**
   
+- 📫 How to reach me: **akcin.alii@gmail.com**
+  
+- ⚡ Fun fact: **My favorite subject in school is Biology!**
 
+- 💻 Passionate about coding, committed to collaboration, and constantly striving for improvement!
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ali-akcin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ali-akcin" height="30" width="40" /></a>
