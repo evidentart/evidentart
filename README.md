@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning: **TypeScript**
   
-- 📫 How to reach me: **akcin.alii@gmail.com**
+- 📫 How to reach me: **aliakcin.vs@gmail.com**
   
 - ⚡ Fun fact: **My favorite subject in school is Biology!**
 
