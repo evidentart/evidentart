@@ -1,4 +1,4 @@
-<img src="https://edexcel.theacademyonline.org.za/wp-content/uploads/2021/03/computer-science.jpg" alt="logo" height="100" width="1010">
+<img src="https://edexcel.theacademyonline.org.za/wp-content/uploads/2021/03/computer-science.jpg" alt="logo" height="120" width="1010">
 
 
 <h1 align="center">Hi 👋, I'm Ali Akcin</h1>
