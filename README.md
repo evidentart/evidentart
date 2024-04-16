@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=evidentart&label=Profile%20views&color=0e75b6&style=flat" alt="evidentart" /> </p>
 
-- 🌱 I’m currently learning: **TypeScript**
+- 🌱 I’m currently learning: **Spring boot, Microservices, Docker, React.js, Jenkins for full-stack development**
   
 - 📫 How to reach me: **aliakcin.vs@gmail.com**
   
