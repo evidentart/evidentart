@@ -12,7 +12,7 @@
   
 - ⚡ Fun fact: **My favorite subject in school is Biology!**
 
-- 📫 How to reach me: aliakcin dot vs at gmail dot com
+- 📫 How to reach me: akcin dot alii at gmail dot com
 
 - 💻 **Passionate about coding, committed to collaboration, and constantly striving for improvement!**
   
