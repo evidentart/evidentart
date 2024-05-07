@@ -10,9 +10,9 @@
 
 - 🌱 I’m currently learning: **Spring boot, React, MongoDB for full-stack development**
   
-- 📫 How to reach me: **aliakcin.vs@gmail.com**
-  
 - ⚡ Fun fact: **My favorite subject in school is Biology!**
+
+- 📫 How to reach me: aliakcin dot vs at gmail dot com
 
 - 💻 **Passionate about coding, committed to collaboration, and constantly striving for improvement!**
   
