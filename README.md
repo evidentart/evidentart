@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=evidentart&label=Profile%20views&color=0e75b6&style=flat" alt="evidentart" /> </p>
 
-- 🌱 I’m currently learning: **Spring boot, React, MongoDB for full-stack development**
+- 🌱 I’m currently learning: **React and Node.js**
   
 - ⚡ Fun fact: **My favorite subject in school is Biology!**
 
