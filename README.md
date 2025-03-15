@@ -3,7 +3,7 @@
 <h3 align="center" style="font-size: 20px;">Hi 👋, I'm Ali Akcin</h3>
 <h5 align="center" style="font-size: 20px;">Dedicated fullstack-developer proficient in Java, SQL, and JavaScript. Passionate about problem-solving and flexible in adapting to new technologies. Committed to writing clean and efficient code, and eager to grow in software development.</h5>
 
-<img align="right" alt="Coding" width="370" height="150" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif">
+<img align="right" alt="Coding" width="350" height="145" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=evidentart&label=Profile%20views&color=0e75b6&style=flat" alt="evidentart" /> </p>
 
