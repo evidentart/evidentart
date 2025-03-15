@@ -10,7 +10,7 @@
 <ul style="font-size: 20px; list-style-type: none; padding: 0; margin: 0;">
   <li>🌱 I’m currently learning: <strong>React and Node.js</strong></li>
   <li>⚡ Fun fact: <strong>My favorite subject in school is Biology!</strong></li>
-  <li>📫 How to reach me: <strong>akcinalii@gmail.com</strong></li>
+  <li>📫 How to reach me: <strong>akcin.alii at gmail dot com</strong></li>
 </ul>
 
 
