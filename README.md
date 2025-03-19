@@ -1,7 +1,7 @@
 <img src="https://edexcel.theacademyonline.org.za/wp-content/uploads/2021/03/computer-science.jpg" alt="logo" height="100" width="1010">
 
-<h3 align="center" style="font-size: 20px;">Hi 👋, I'm Ali Akcin</h3>
-<h5 align="center" style="font-size: 20px;">Dedicated fullstack-developer proficient in Java, SQL, and JavaScript. Passionate about problem-solving and flexible in adapting to new technologies. Committed to writing clean and efficient code, and eager to grow in software development.</h5>
+<h3 align="center" style="font-size: 30px;">Hi 👋, I'm Ali Akcin</h3>
+<h5 align="center" style="font-size: 25px;">Dedicated fullstack-developer proficient in Java, SQL, and JavaScript. Passionate about problem-solving and flexible in adapting to new technologies. Committed to writing clean and efficient code, and eager to grow in software development.</h5>
 
 <img align="right" alt="Coding" width="300" height="145" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif">
 
