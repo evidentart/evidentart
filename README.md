@@ -11,7 +11,6 @@
   <li>🌱 I’m currently learning: <strong>React and Node.js</strong></li>
   <li>📖 Personal website & academic papers: <strong><a href="https://aliakcin.weebly.com/" target="_blank" rel="noopener noreferrer">aliakcin.weebly.com</a></strong></li>
   <li>⚡ Fun fact: <strong>My favorite subject in school is Biology!</strong></li>
-  <li>📫 How to reach me: <strong>akcin dot alii at gmail dot com</strong></li>
 </ul>
 
 <div style="display: flex; justify-content: space-between; align-items: center; gap: 10px; background-color: #000000; padding: 10px; border-radius: 10px;">
