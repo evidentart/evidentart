@@ -3,12 +3,12 @@
 <h2 align="center" style="font-size: 30px;">Hi 👋, I'm Ali Akcin</h3>
 <h4 align="center" style="font-size: 25px;">Dedicated fullstack-developer proficient in Java, SQL, and JavaScript. Passionate about problem-solving and flexible in adapting to new technologies. Committed to writing clean and efficient code, and eager to grow in software development.</h5>
 
-<img align="right" alt="Coding" width="300" height="145" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif">
+<img align="right" alt="Coding" width="300" height="130" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=evidentart&label=Profile%20views&color=0e75b6&style=flat" alt="evidentart" /> </p>
 
 <ul style="font-size: 20px; list-style-type: none; padding: 0; margin: 0;">
-  <li>🌱 I’m currently learning: <strong>React and Node.js</strong></li>
+  <li>🌱 I’m currently learning: <strong>Python and Machine Learning</strong></li>
   <li>📖 Personal website & academic papers: <strong><a href="https://aliakcin.weebly.com/" target="_blank" rel="noopener noreferrer">aliakcin.weebly.com</a></strong></li>
   <li>⚡ Fun fact: <strong>My favorite subject in school is Biology!</strong></li>
 </ul>
