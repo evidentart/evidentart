@@ -9,7 +9,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=evidentart&label=Profile%20views&color=0e75b6&style=flat" alt="evidentart" /> </p>
 
 <ul style="font-size: 20px; list-style-type: none; padding: 0; margin: 0;">
-  <li>🌱 I’m currently learning: <strong>Python and Machine Learning</strong></li>
+  <li>🌱 I’m currently learning: <strong>Docker · AWS Cloud Services · Microservices Architecture · CI/CD Pipelines</strong></li>
   <li>📖 Personal website & academic papers: <strong><a href="https://aliakcin.weebly.com/" target="_blank" rel="noopener noreferrer">aliakcin.weebly.com</a></strong></li>
   <li>⚡ Fun fact: <strong>My favorite subject in school is Biology!</strong></li>
 </ul>
