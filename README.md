@@ -1,7 +1,7 @@
 <img src="https://edexcel.theacademyonline.org.za/wp-content/uploads/2021/03/computer-science.jpg" alt="logo" height="100" width="1010">
 
 <h2 align="center" style="font-size: 30px;">Hi 👋, I'm Ali Akcin</h3>
-<h4 align="center" style="font-size: 25px;">Aspiring data scientist skilled in Python, SQL, and data visualization, passionate about data analysis and machine learning. Currently transitioning from a software development background to deepen expertise in data-driven solutions.</h5>
+<h4 align="center" style="font-size: 25px;">Aspiring Software Engineer skilled in Java, Python, SQL, and data visualization, passionate about building efficient backend systems and applying data-driven solutions.</h5>
 
 
 
