@@ -12,10 +12,7 @@
   <li>⚡ Fun fact: <strong>I’ve always had a soft spot for Biology!</strong></li>
 </ul>
 
-<div style="display: flex; justify-content: space-between; align-items: center; gap: 10px; background-color: #000000; padding: 10px; border-radius: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=evidentart&show_icons=true&locale=en&layout=compact&theme=dark&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" alt="evidentart" style="height: 176px; object-fit: cover;" loading="lazy"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=evidentart&show_icons=true&locale=en&theme=dark&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" alt="evidentart" style="height: 176px; object-fit: cover;" loading="lazy"/>
-</div>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
