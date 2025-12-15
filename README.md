@@ -1,15 +1,12 @@
 <img src="https://edexcel.theacademyonline.org.za/wp-content/uploads/2021/03/computer-science.jpg" alt="logo" height="100" width="1010">
 
-<h2 align="center" style="font-size: 30px;">Hi 👋, I'm Ali Akcin</h2>
-
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=evidentart&label=Profile%20views&color=0e75b6&style=flat" alt="evidentart" /> 
 </p>
 
 <ul style="font-size: 20px; list-style-type: none; padding: 0; margin: 0;">
-  <li>🌱 I’m currently learning: <strong>AWS Architecture · Kubernetes</strong></li>
-  <li>📖 Personal website & academic papers: <strong><a href="https://aliakcin.weebly.com/" target="_blank" rel="noopener noreferrer">aliakcin.weebly.com</a></strong></li>
-  <li>⚡ Fun fact: <strong>I’ve always had a soft spot for Biology!</strong></li>
+  <li> I’m currently learning: <strong>AWS Architecture · Kubernetes</strong></li>
+  <li> Personal website & academic papers: <strong><a href="https://aliakcin.weebly.com/" target="_blank" rel="noopener noreferrer">aliakcin.weebly.com</a></strong></li>
 </ul>
 
 
